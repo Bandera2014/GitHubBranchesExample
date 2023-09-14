@@ -8,3 +8,5 @@ Ty Tichenor
 Maekyn Grigsby 
 Hudson Mayes
 Taylor Blythe
+Isaac Pohl
+Jonah Zoller
