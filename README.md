@@ -1,7 +1,16 @@
 # GitHubBranchesExample
 Bander edited this
-gumula
-parker matthews
-Ty Tichenor
+Owen Cape
+Blake Brucken
+Parker Matthews
 Andrew Scheller
-maekyn
+Ty Tichenor 
+Maekyn Grigsby 
+Hudson Mayes
+Taylor Blythe
+Isaac Pohl
+Jonah Zoller
+Ben Lukens
+Sam Situ
+Landon Meuth
+Amelia Perry
