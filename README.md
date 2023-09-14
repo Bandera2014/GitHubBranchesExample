@@ -1,6 +1,10 @@
 # GitHubBranchesExample
 Bander edited this
+gumula
+Ty Tichenor
 Owen Cape
+Maekyn Grigsby
+Andrew Scheller
 Blake Brucken
 Parker Matthews
 Andrew Scheller
