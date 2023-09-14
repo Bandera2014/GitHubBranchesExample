@@ -1,5 +1,5 @@
 # GitHubBranchesExample
-Pohl eddited this file
+Bander edited this
 
 
 
@@ -9,5 +9,4 @@ Pohl eddited this file
 
 
 
-
-Isaac Edited this
+Isaac Pohl
