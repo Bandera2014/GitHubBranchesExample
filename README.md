@@ -7,4 +7,5 @@ Andrew Scheller
 Ty Tichenor 
 Maekyn Grigsby 
 Hudson Mayes
+Isaac Pohl
 Jonah Zoller
