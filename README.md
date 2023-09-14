@@ -1,9 +1,8 @@
 # GitHubBranchesExample
 Bander edited this
-Owen Cape
-Blake Brucken
-Parker Matthews
+gumula
+parker matthews
+Ty Tichenor
 Andrew Scheller
-Ty Tichenor 
-Maekyn Grigsb
-Hudson Mayes
+maekyn
+Blake Brucken
